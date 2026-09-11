@@ -1,5 +1,7 @@
 # Benchmark — Kauã
 
+**Autoria/validação:** Carlos — responsável pela execução desta parte da atividade, conforme divisão de responsabilidades do projeto.
+
 ## Objetivo
 
 Analisar três referências do ecossistema de IA para identificar
