@@ -33,7 +33,7 @@ Foram analisadas três referências:
 2. Langflow
 3. LangSmith
 
-As consultas foram realizadas em **16/09/2026**, utilizando as documentações oficiais das respectivas ferramentas.
+As consultas foram realizadas em **11/09/2026**, utilizando as documentações oficiais das respectivas ferramentas.
 
 ---
 
@@ -345,4 +345,4 @@ A implementação deverá ser realizada em etapa posterior, respeitando as decis
 * Langflow — documentação oficial: https://docs.langflow.org/
 * LangSmith — documentação oficial: https://docs.langchain.com/langsmith/
 
-**Data da consulta:** 16/09/2026.
+**Data da consulta:** 11/09/2026.
